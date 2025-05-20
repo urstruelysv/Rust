@@ -11,3 +11,5 @@ starting from here
 https://www.youtube.com/watch?v=qP7LzZqGh30 - harkirat video for basics , binge watch , may be try doing somethings , make notion notes have a basic understanding and shortcommings then go for the areas lack knowldge , 10 hours should be enough 
 
 https://www.youtube.com/watch?v=EYCBm0xAWow
+
+https://github.com/rust-lang/rustlings
